@@ -7,7 +7,7 @@ export const PACKAGES: Package[] = [
     sizeDescription:
       "Fits a few boxes, a suitcase, or a couple of bags — ideal for clothing, books, and small electronics.",
     durationOptions: ["1 Month", "3 Months", "Full Semester Break"],
-    priceNGN: 4500,
+    priceNGN: 2500,
     priceUnit: "per month",
     features: [
       "Up to 5 medium items",
@@ -22,7 +22,7 @@ export const PACKAGES: Package[] = [
     sizeDescription:
       "Half a room's worth of stuff — great for a mattress, small furniture, boxes, and electronics combined.",
     durationOptions: ["1 Month", "3 Months", "Full Semester Break", "Full Session"],
-    priceNGN: 8500,
+    priceNGN: 3500,
     priceUnit: "per month",
     features: [
       "Up to 12 medium items or 1 mattress + boxes",
@@ -39,7 +39,7 @@ export const PACKAGES: Package[] = [
     sizeDescription:
       "A full hostel room load — mattress, furniture, boxes, electronics. Best for relocating or long breaks.",
     durationOptions: ["3 Months", "Full Semester Break", "Full Session", "1 Year"],
-    priceNGN: 15000,
+    priceNGN: 4500,
     priceUnit: "per month",
     features: [
       "Unlimited items within one dedicated unit",

@@ -36,9 +36,9 @@ export default function Footer() {
           <div>
             <h4 className="text-sm font-semibold text-white">Contact (placeholder)</h4>
             <ul className="mt-3 space-y-2 text-sm text-navy-300">
-              <li>📍 Ahmadu Bello University, Zaria</li>
-              <li>📧 hello@studentstorage-abu.demo</li>
-              <li>📱 WhatsApp: +234 800 000 0000</li>
+              <li>Ahmadu Bello University, Zaria</li>
+              <li>hello@studentstorage-abu.demo</li>
+              <li>WhatsApp: +234 800 000 0000</li>
             </ul>
           </div>
 
